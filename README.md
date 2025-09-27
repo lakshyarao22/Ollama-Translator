@@ -1,5 +1,5 @@
 # 🔮 Ollama Private Translator (AWS/Ollama/Gemma3N)
-<img width="1074" height="684" fit=cover mask=circle alt="image" src="https://github.com/user-attachments/assets/6e808f86-3249-4c81-bfc8-0aad609b4c60" />
+<img width="1074" height="684" v="4" h="300" w="300" fit=cover mask=circle alt="image" src="https://github.com/user-attachments/assets/6e808f86-3249-4c81-bfc8-0aad609b4c60" />
 
 Hey there! 👋 Welcome to my project—a secure, private translation tool built primarily for me (and maybe a few internal folks) to handle sensitive text without sending it to big public APIs. Think of it as **"Google Translate, but running on my own cloud GPU."**
 
